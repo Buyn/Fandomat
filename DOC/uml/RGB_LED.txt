@@ -1,0 +1,27 @@
+***************************************
+*"  RGB_LED  " *{{{1
+***************************************
+*****"   Public Fields   "***************{{{3
++ update_time: long
+**********************************}}}3
+*****"   Privat Fields   "***************{{{3
++ red_pin: int
++ green_pin: int
++ blue_pin: int
++ red: int
++ green: int
++ blue: int
++ fade_speed: int
+**********************************}}}3
+*****"   Public Metods   "***************{{{3
+RGB_LED(int red_pin, int green_pin, int green_pin)
++ set_speed(int fade_speed)
++ fade_to(int r, int g, int b)
++ update()
+**********************************}}}3
+*****"   Privat Metods   "***************{{{3
++ fade_Up(int pin): 
++ fade_Down(int pin): 
+**********************************}}}3
+**********************************}}}1
+***************************************

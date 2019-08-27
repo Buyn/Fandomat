@@ -1,0 +1,50 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file d:/tools.win/Fast/Evol_fast/vadim/tradomat/Toch/ORG/Plan.org
+
+
+* цвет
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2019-08-16 Пт 18:01
+  :ARCHIVE_FILE: d:/tools.win/Fast/Evol_fast/vadim/tradomat/Toch/ORG/Plan.org
+  :ARCHIVE_OLPATH: Датчики/проверяем
+  :ARCHIVE_CATEGORY: Plan
+  :END:
+- TCS230 датчик цвета 
+**  скореей всего не подходят
+- apds 9960  датчик цвета 
+	 - vl6180 понимает только отенки серого
+	 https://learn.adafruit.com/adafruit-vl53l0x-micro-lidar-distance-sensor-breakout/arduino-code
+
+	 https://learn.sparkfun.com/tutorials/vl6180-hookup-guide/all
+	 - vl53l0x-v2 - понимает только отенки серого
+	 https://learn.adafruit.com/adafruit-vl53l0x-micro-lidar-distance-sensor-breakout/arduino-code
+
+Archived entries from file d:/tools.win/Fast/Evol_fast/vadim/tradomat/Toch/ORG/Plan.org
+
+
+* проверяем
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2019-08-16 Пт 18:01
+  :ARCHIVE_FILE: d:/tools.win/Fast/Evol_fast/vadim/tradomat/Toch/ORG/Plan.org
+  :ARCHIVE_OLPATH: Датчики
+  :ARCHIVE_CATEGORY: Plan
+  :END:
+
+Archived entries from file d:/tools.win/Fast/Evol_fast/vadim/tradomat/Toch/ORG/Plan.org
+
+
+* Датчики
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2019-08-16 Пт 18:01
+  :ARCHIVE_FILE: d:/tools.win/Fast/Evol_fast/vadim/tradomat/Toch/ORG/Plan.org
+  :ARCHIVE_CATEGORY: Plan
+  :END:
+** растояние
+*** pololu 
+Carrier with Sharp GP2Y0A60SZLF Analog Distance Sensor
+(sds01a) - 
+*** звуковой 
+ датчик звука
+ найти старый скетч
